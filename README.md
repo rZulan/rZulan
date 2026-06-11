@@ -1,7 +1,7 @@
 ## My Tech
 
 <p align="left">
-  <img src="blob:https://www.svgviewer.dev/2362341a-31df-4118-95bb-4a95ad00474b" width="65" height="65" />
+  <img src="[blob:https://www.svgviewer.dev/2362341a-31df-4118-95bb-4a95ad00474b](https://jumpshare.com/share/7oTH4jkrRtxBYvNvS8Li)" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" />
 </p>
 
