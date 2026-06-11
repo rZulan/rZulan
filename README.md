@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /></div>
+
 <!--
 **rZulan/rZulan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
