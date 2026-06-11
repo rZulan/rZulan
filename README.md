@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="pics/header.png">
+	<img src="zulan.png">
 </p>
 
 ## My Tech Stack
