@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<table>
-  <tr>
-    <td><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65"></td>
-    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"></td>
-    <td><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65"></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" />
+</p>
 
 <!--
 **rZulan/rZulan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
