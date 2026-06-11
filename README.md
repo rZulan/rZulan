@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: column;">
   <div style="display: flex; align-items: flex-start;">
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
   </div><div style="display: flex; align-items: flex-start;">
