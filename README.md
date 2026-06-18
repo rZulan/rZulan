@@ -2,7 +2,7 @@
 	<img src="_zulan.png">
 </p>
 
-## My Tech Stack
+## Tech Stack
 
 ### Languages
 <p align="left">
