@@ -1,7 +1,9 @@
 <p align="center">
 	<!-- <img src="_zulan.png"> -->
 	<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=100:ffffff,100:1a1a2e&height=160&section=header&text=Zulan&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=%20Developer%20&descSize=14&descAlignY=75&descColor=888888" /> -->
-	<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+</p>
+
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="space" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -146,7 +148,6 @@
     </line>
   </g>
 </svg>
-</p>
 
 ## Tech Stack
 
