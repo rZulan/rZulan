@@ -1,5 +1,6 @@
 <p align="center">
-	<img src="_zulan.png">
+	<!-- <img src="_zulan.png"> -->
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=160&section=header&text=Zulan&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=%20Developer%20&descSize=14&descAlignY=75&descColor=888888" />
 </p>
 
 ## Tech Stack
